@@ -1,7 +1,4 @@
-Bot Created Via [NFD](https://github.com/LloydAsp/nfd)
-
 使用方法：
 
-- 当其他用户给bot发消息，会被转发到bot创建者
-- 用户回复普通文字给转发的消息时，会回复到原消息发送者
-- 用户回复 `/block` ,  `/unblock` ,  `/checkblock` 等命令会执行相关指令， **不会** 回复到原消息发送者
+把想发送给主人的消息发给我，我会转发给主人审阅
+如果提示“Your are blocker”代表你已经被主人拉黑了，消息无法传送给主人
